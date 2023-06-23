@@ -1,16 +1,3 @@
-# online_shopping
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SS1](https://github.com/Bishozit/Online_Shopping_App/assets/110930138/6fd55686-e180-47be-9323-977530b610b6)
+![ss3](https://github.com/Bishozit/Online_Shopping_App/assets/110930138/4667cd66-39f6-4792-9b6b-250cf84e2f83)
+![ss2](https://github.com/Bishozit/Online_Shopping_App/assets/110930138/38a1968f-54ae-4a9b-936d-48f87b0d5b6f)
