@@ -1,7 +1,7 @@
 * Used GetX for state management and sqflite for local storage
 * Navigate to cart page and show all cart items
 * Add Product to favorite list
-* Product add to card
+* Product add to card 
 * Toatl amount auto calculation
 
 ![SS1](https://github.com/Bishozit/Online_Shopping_App/assets/110930138/6fd55686-e180-47be-9323-977530b610b6)
