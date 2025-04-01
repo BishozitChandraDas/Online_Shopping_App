@@ -1,6 +1,6 @@
  * Used GetX for state management and sqflite for local storage
 * Navigate to the cart page and show all cart items    
-* Add Product to favorite list  
+* Add Product to favorite list   
 * Product add to card  
 * Total amount auto calculation
 
